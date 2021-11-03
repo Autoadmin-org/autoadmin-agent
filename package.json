@@ -37,7 +37,7 @@
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.3.0",
-    "ssh2": "^1.1.0",
+    "ssh2": "^1.4.0",
     "tedious": "^11.0.9",
     "tunnel-ssh": "^4.1.4",
     "winston": "^3.3.3",
